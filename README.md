@@ -46,19 +46,35 @@ Kolom yang ada dalam dataset ini meliputi :
 
 ### Kesimpulan
 
-1. Meskipun performa penjualan di tiap bulan selalu mengalami fluktuasi, profit Superstore selalu meningkat tiap tahunnya.
-1. Penurunan performa penjualan dapat disebabkan beberapa faktor musiman seperti post-holiday effect, tax season, kondisi cuaca (winter storm), dan peralihan pengeluaran ke aktivitas rekreasi di liburan musim panas.
-1. State dengan penjualan terbaik adalah California dan New York. Hal ini dipengaruhi oleh kepadatan populasi dan daya beli masyarakat yang tinggi, sebagaimana diketahui bahwa kedua kota tersebut merupakan pusat bisnis di US.
-1. State dengan penjualan terburuk adalah Texas. Adanya permasalahan regional seperti tingkat diskon dan strategi pricing yang kurang optimal menyababkan banyak kerugian di Texas.
-1. Houston, San Antonio, dan Dallas merupakan City dengan kerugian terbesar di Texas. 
-1. Di Texas, Binders merupakan core problem yang menyebabkan kerugian, sedangkan Appliances dan Machines menjadi secondary problem.
-1. Accessories, Papers, Copiers dan Binders merupakan 4 Sub-Category dengan profit tertinggi di Los Angeles dan San Francisco.
-1. Tables menjadi consistent loss maker di kota-kota dengan profit tinggi (New York, Los Angeles, San Francisco), sehingga ada peluang untuk meningkatkan penjualan Tables di kota tersebut.
-1. Penetapan diskon yang tinggi dan strategi pricing yang kurang optimal merupakan root cause kerugian bagi Superstore.
-1. Seattle memiliki karakteristik pasar yang mendukung, serta membuka peluang bagi perusahaan untuk mengembangkan strategi serupa di kota lain dengan potensi pertumbuhan tinggi.
-1. Philadelphia termasuk Outlier Negatif dimana merupakan kota dengan kerugian terbesar, bahkan melebihi Houston.
-1. Consumer menjadi kontributor utama profit karena didorong oleh tingginya volume transaksi dari pelanggan individu yang tersebar di berbagai wilayah.
-1. Technology merupakan Fully Profitable Category tanpa ada penjualan yang negatif di Sub-Category secara keseluruhan.
-1. Category Office Supplies tergolong stabil dimana hanya ada kerugian di Sub-Category Supplies yang relatif kecil.
-1. 2 dari 4 Sub-Category di Furniture (Tables dan Bookcases) terdata memiliki performa yang negatif dan menyebabkan performa Furniture rendah secara keseluruhan.
-1. Canon imageCLASS 2200 Advance Copier profit driver utama bagi, sementara Cubify CubeX 3D Printer Double Head Print mencatatkan kerugian terbesar.
+* Meskipun performa penjualan di tiap bulan selalu mengalami fluktuasi, profit Superstore selalu meningkat tiap tahunnya.
+* Penurunan performa penjualan dapat disebabkan beberapa faktor musiman seperti post-holiday effect, tax season, kondisi cuaca (winter storm), dan peralihan pengeluaran ke aktivitas rekreasi di liburan musim panas.
+* State dengan penjualan terbaik adalah California dan New York. Hal ini dipengaruhi oleh kepadatan populasi dan daya beli masyarakat yang tinggi, sebagaimana diketahui bahwa kedua kota tersebut merupakan pusat bisnis di US.
+* State dengan penjualan terburuk adalah Texas. Adanya permasalahan regional seperti tingkat diskon dan strategi pricing yang kurang optimal menyababkan banyak kerugian di Texas.
+* Houston, San Antonio, dan Dallas merupakan City dengan kerugian terbesar di Texas. 
+* Di Texas, Binders merupakan core problem yang menyebabkan kerugian, sedangkan Appliances dan Machines menjadi secondary problem.
+* Accessories, Papers, Copiers dan Binders merupakan 4 Sub-Category dengan profit tertinggi di Los Angeles dan San Francisco.
+* Tables menjadi consistent loss maker di kota-kota dengan profit tinggi (New York, Los Angeles, San Francisco), sehingga ada peluang untuk meningkatkan penjualan Tables di kota tersebut.
+* Penetapan diskon yang tinggi dan strategi pricing yang kurang optimal merupakan root cause kerugian bagi Superstore.
+* Seattle memiliki karakteristik pasar yang mendukung, serta membuka peluang bagi perusahaan untuk mengembangkan strategi serupa di kota lain dengan potensi pertumbuhan tinggi.
+* Philadelphia termasuk Outlier Negatif dimana merupakan kota dengan kerugian terbesar, bahkan melebihi Houston.
+* Consumer menjadi kontributor utama profit karena didorong oleh tingginya volume transaksi dari pelanggan individu yang tersebar di berbagai wilayah.
+* Technology merupakan Fully Profitable Category tanpa ada penjualan yang negatif di Sub-Category secara keseluruhan.
+* Category Office Supplies tergolong stabil dimana hanya ada kerugian di Sub-Category Supplies yang relatif kecil.
+* 2 dari 4 Sub-Category di Furniture (Tables dan Bookcases) terdata memiliki performa yang negatif dan menyebabkan performa Furniture rendah secara keseluruhan.
+* Canon imageCLASS 2200 Advance Copier profit driver utama bagi, sementara Cubify CubeX 3D Printer Double Head Print mencatatkan kerugian terbesar.
+
+### Rekomendasi
+* Optimasi Low Season (Januari, Februari, April, Juli) dengan mengunakan promosi terarah (bundling / diskon terbatas) serta efisiensi stok untuk menjaga demand tanpa menekan margin.
+* Maksimalkan High Season (September) dengan meningkatkan ketersediaan produk (terutama Technology & Office Supplies) dan optimalkan pricing tanpa ketergantungan pada diskon besar.
+* Terapkan Strategy Berbasis Seasonality dengan menyesuaikan pricing, inventory, dan campaign marketing dengan pola musiman untuk menjaga stabilitas penjualan dan memaksimalkan profit sepanjang tahun.
+* Superstore disarankan untuk menerapkan strategi segmentasi yang lebih spesifik per wilayah, dengan mengoptimalkan segment yang terbukti memberikan profit tertinggi di masing-masing state. 
+* Superstore disarankan untuk melakukan evaluasi menyeluruh terhadap sub-category Binders di wilayah Texas, khususnya terkait strategi harga dan pemberian diskon.
+* Superstore disarankan untuk mempertahankan strategi penjualan yang telah berjalan efektif di Los Angeles, khususnya pada sub-category dengan performa tinggi seperti Accessories. Sementara itu, di San Francisco, diperlukan evaluasi lebih lanjut terhadap sub-category Tables, terutama terkait strategi harga dan biaya, guna mengurangi kerugian dan meningkatkan profitabilitas secara keseluruhan.
+* Perusahaan disarankan untuk mengevaluasi kebijakan pemberian diskon pada sub-category Tables, khususnya dengan membatasi diskon pada level yang lebih rendah agar tetap menjaga margin keuntungan. Selain itu, strategi dapat difokuskan pada produk dengan performa tinggi seperti Machines dan Phones untuk memaksimalkan profit di wilayah dengan potensi besar seperti New York City.
+* Perusahaan disarankan untuk mempertahankan dan mengoptimalkan performa di kota dengan profit tinggi seperti New York City dan Los Angeles, serta menjadikannya sebagai benchmark strategi. Di sisi lain, diperlukan evaluasi mendalam pada kota dengan performa rendah seperti Philadelphia dan kota-kota di Texas, khususnya terkait strategi harga, distribusi produk, dan segmentasi pasar, guna mengurangi kerugian dan meningkatkan profitabilitas.
+* Superstore disarankan untuk memaksimalkan segment Consumer sebagai pendorong utama pertumbuhan dengan berfokus pada kategori Technology dan Office Supplies yang terbukti memberikan kontribusi profit terbesar. 
+* Pada segment Corporate, strategi dapat diarahkan untuk meningkatkan nilai transaksi melalui penjualan produk Technology dan kontrak Office Supplies. 
+* Sementara itu, segment Home Office dapat dikembangkan secara lebih targeted dengan menawarkan produk yang sesuai kebutuhan pasar niche.
+* Secara keseluruhan, Superstore perlu memperkuat strategi berbasis kategori dengan menjadikan Technology dan Office Supplies sebagai core profit driver di seluruh segment, serta melakukan evaluasi mendalam terhadap kategori Furniture, khususnya dalam hal strategi harga, pengendalian diskon, dan pemilihan produk, guna meningkatkan margin dan mengurangi ketimpangan profit antar kategori.
+* Perusahaan disarankan untuk mempertahankan dan mengoptimalkan sub-category dengan performa tinggi seperti Copiers, Phones, dan Accessories sebagai pendorong utama profit. Di sisi lain, perlu dilakukan evaluasi terhadap sub-category yang merugi seperti Bookcases, Tables, dan Supplies, khususnya dalam hal strategi harga dan pengendalian diskon. Selain itu, sub-category Machines juga perlu dioptimalkan agar dapat meningkatkan kontribusi profit dalam kategori Technology.
+* Perusahaan disarankan untuk mempertahankan dan mengoptimalkan produk dengan performa tinggi seperti Canon Copier sebagai profit driver utama. Di sisi lain, perlu dilakukan evaluasi menyeluruh terhadap sub-category Machines yang secara konsisten menunjukkan performa rendah, termasuk pada level produk. Evaluasi ini dapat mencakup penyesuaian strategi harga, pengendalian diskon, serta optimalisasi portofolio produk guna meningkatkan kontribusi profit dan mengurangi ketimpangan performa secara keseluruhan.
