@@ -4,12 +4,14 @@
 Seiring dengan meningkatnya persaingan di industri ritel, perusahaan dituntut untuk mengambil keputusan yang cepat dan tepat berbasis data guna mempertahankan daya saing dan meningkatkan profitabilitas. Superstore yang beroperasi di berbagai wilayah yang ada di United States dengan beragam kategori produk dan segmen pelanggan menghasilkan data transaksi dalam jumlah besar setiap harinya sejak 2014-2017.
 
 Data tersebut menyimpan berbagai informasi penting terkait performa penjualan, perilaku pelanggan, permintaan produk, serta efisiensi operasional. Namun, tanpa proses analisis dan visualisasi yang tepat, data tersebut sulit dimanfaatkan secara optimal untuk menghasilkan insight yang bernilai.
+
 ---
 # Problem Statement
 
 Pihak Superstore ingin melakukan analisis data yang komprehensif untuk mengidentifikasi produk, kategori, wilayah, dan segmen pelanggan yang memberikan performa terbaik maupun yang kurang optimal. Tanpa adanya insight yang jelas, proses pengambilan keputusan menjadi kurang optimal dan berpotensi menyebabkan strategi bisnis yang tidak efektif.
 
 Oleh karena itu, project ini bertujuan untuk membangun dashboard visualisasi data yang interaktif guna menganalisis performa penjualan serta menghasilkan insight yang dapat digunakan sebagai dasar pengambilan keputusan yang lebih baik.
+
 ---
 # Data
 
@@ -39,6 +41,7 @@ Kolom yang ada dalam dataset ini meliputi :
 | Quantity | Quantity of the Product |
 | Discount | Discount provided |
 | Profit | Profit/Loss incurred |
+
 ---
 
 ### Kesimpulan
