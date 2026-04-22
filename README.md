@@ -15,7 +15,7 @@ Oleh karena itu, project ini bertujuan untuk membangun dashboard visualisasi dat
 ---
 # Data
 
-Dataset ini merupakan dataset Superstore United States dari tahun 2014-2017. Terdapat 21 column dengan jumlah data sebanyak 9993 baris. Dataset dan data dictionary dapat diakses [di sini].
+Dataset ini merupakan dataset Superstore United States dari tahun 2014-2017. Terdapat 21 column dengan jumlah data sebanyak 9993 baris.
 
 Kolom yang ada dalam dataset ini meliputi :
 | Kolom | Deskripsi |
